@@ -1,8 +1,8 @@
 {
-  "name": "particle-zksync-demo",
+  "name": "particle-berachain-demo",
   "version": "1.0.0",
   "type": "module",
-  "description": "Demo application for leveraging zkSync within Particle's Smart Wallet-as-a-Service",
+  "description": "Demo application for leveraging Berachain within Particle's Smart Wallet-as-a-Service",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
