@@ -20,6 +20,14 @@ Particle Auth Core, a component of Particle Network's Wallet-as-a-Service, enabl
 
 ##
 
+<p align="center">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/TABASCOatw/particle-berachain-demo&env=REACT_APP_PROJECT_ID&env=REACT_APP_CLIENT_KEY&env=REACT_APP_APP_ID&envDescription=Head%20over%20to%20the%20Particle%20dashboard%20to%20retrieve%20the%20above%20keys.&envLink=https%3A%2F%2Fdashboard.particle.network">
+    <img src="https://vercel.com/button" alt="Deploy with Vercel"/>
+  </a>
+</p>
+
+##
+
 👉 Try the demo: https://core-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
