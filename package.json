@@ -1,8 +1,8 @@
 {
-  "name": "particle-avalanche-auth-core-demo",
+  "name": "particle-berachain-demo",
   "version": "1.0.0",
   "type": "module",
-  "description": "Example application showcasing the implementation of Particle Auth Core for social logins within Avalanche applications.",
+  "description": "Example application showcasing the implementation of Particle's Smart Wallet-as-a-Service within Berachain applications.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
